@@ -1,5 +1,5 @@
 # About Me :
 백엔트 예비 개발자 정지영 입니다 :D
  
-<img src="https://camo.githubusercontent.com/be3dd6e72b33a3cd033f4aab794201de43d3ca0ad022db9f17ba5b26f23786e0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666c6174266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465
-">
+![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
+
