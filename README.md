@@ -4,5 +4,5 @@
  # Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![JAVA](https://img.shields.io/badge/-JAVA-007ACC?style=for-the-badge&logo=java&logoColor=ffffff)
-![JAVA](https://img.shields.io/badge/-JAVA-007ACC??style=plastic&logo=appveyor&logoColor=ffffff)
+![JAVA](https://img.shields.io/badge/-JAVA-007ACC??style=plastic&logo=java&logoColor=ffffff)
 
